@@ -10,8 +10,8 @@ const feellike = document.querySelector("#feellike")
 const weatherimg = document.querySelector("main")
 const nav = document.querySelector("nav")
 
-const api_key = "1757d074de3597ce35d2192a7e4a2eaf"
-
+const api_key = ""
+//api key required mine is secret 
 
 const cityinput = document.querySelector("#cityinput");
 
